@@ -5,16 +5,15 @@
 **My Adress**  novikova19992806@gmail.com
 ## **Education**
 ---  
-| **2016-2020**| software engineer | Mogilev State University of Food Technology| 
-|--:|--:|--:|
+ **2016-2020** Software engineer  Mogilev State University of Food Technology
+
 
 ## **Work Experience**
 ---
-| Period| Place | Position| Responsibilities|
-|--:|--:|--:|--:|
-|March 2019 - October 2019|Itlandia|Methodist|Scheduling weekly and semester. Conducting interviews. Conclusion of contracts. Time tracking. Active participation in the life of the educational center|
-|October 2019 - present|Itlandia|Informatics teacher|Conducting classes in computer science and programming for children (from 5 years old), adolescents and retirees|
-|October 2020 - June 2021|MSPC|teacher of special disciplines|Сonducting lectures, practical and laboratory classes in electrical engineering|
+
+1. March 2019 - October 2019.  Methodist in Itlandia. Scheduling weekly and semester. Conducting interviews. Conclusion of contracts. Time tracking. Active participation in the life of the educational center
+2. October 2019 - present.  Informatics teacher in Itlandia. Conducting classes in computer science and programming for children (from 5 years old), adolescents and retirees 
+3. October 2020 - June 2021. Teacher of special disciplines in MSPC.  Сonducting lectures, practical and laboratory classes in electrical engineering
 
 ## **About Me**
 ---
