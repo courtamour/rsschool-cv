@@ -1,7 +1,7 @@
 # **Anastasiya Dzeravianka**
 ---
 ![alt-текст](https://sun9-12.userapi.com/impf/c846322/v846322199/4c1e5/ej--e84LvHY.jpg?size=2451x1631&quality=96&sign=8cec061220b9b966af08cc1a60e10e0a&type=album)
-**My Phone Number** +375 (29) 5139332
+**My Phone Number** +375 (29) 5139332  
 **My Adress**  novikova19992806@gmail.com
 ## **Education**
 ---  
