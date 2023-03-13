@@ -1,1 +1,1 @@
-# rsschool-cv
+https://courtamour.github.io/rsschool-cv/
