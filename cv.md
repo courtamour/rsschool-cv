@@ -3,7 +3,7 @@
 
 ![Это опциональный alt-текст](/photo.jpeg)
 
-**My Phone Number** +375 (29) 5139332  
+**My Phone Number** +375 (29) 5139332 
 
 **My Adress** novikova19992806@gmail.com
 
